@@ -1,0 +1,14 @@
+MetaKeywords/bin/
+MetaKeywords/obj/
+
+MetaKeywords.BusinessLogic/bin/
+MetaKeywords.BusinessLogic/obj/
+
+MetaKeywords.Model/bin/
+MetaKeywords.Model/obj/
+
+MetaKeywords.Presenter/bin/
+MetaKeywords.Presenter/obj/
+
+.vs/config/applicationhost.config
+.vs/config/applicationhost.config
